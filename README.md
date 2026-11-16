@@ -4,18 +4,18 @@
 Peaky Blinders is my favorite crime drama series. It takes place in Birmingham, England, after World War I. The story follows the Shelby family, led by Thomas Shelby, as they rise to power.
 
 > **Why I Like Peaky Blinders**
-- Interesting and unpredictable storyline.
-- Intelligent and powerful characters.
-- Amazing cinematography and soundtrack.
-- Themes of family, loyalty, ambition, and power.
+-  Interesting and unpredictable storyline.
+-  Intelligent and powerful characters.
+-  Amazing cinematography and soundtrack.
+-  Themes of family, loyalty, ambition, and power.
 
-Element         |	Description
+> **Element         |	Description**
 
-Series	        | Peaky Blinders
-Main Character	| Thomas Shelby
-Genre	          | Crime and Drama
-Setting	        | Birmingham, England
-Rating	        | 5/5
+- Series	          | Peaky Blinders
+- Main Character	  | Thomas Shelby
+- Genre	            | Crime and Drama
+- Setting	          | Birmingham, England
+- Rating	          | 5/5
 
 json
 {
