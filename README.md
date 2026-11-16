@@ -56,7 +56,7 @@ Favorite Genre : Crime and Drama
 -[x]Rewatch all episodes
 
 
-This series is amazing! :joy:
+This series is amazing! ❤️
 
 The Shelby family is unforgettable! 🔥
 
