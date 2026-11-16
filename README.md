@@ -1,11 +1,9 @@
-# app-dev
-My first repository
-Peaky Blinders
-My Favorite Series
+# **Peaky Blinders**
+## **My Favorite Series**
 
 Peaky Blinders is my favorite crime drama series. It takes place in Birmingham, England, after World War I. The story follows the Shelby family, led by Thomas Shelby, as they rise to power.
 
-- Why I Like Peaky Blinders
+> **Why I Like Peaky Blinders**
 - Interesting and unpredictable storyline.
 - Intelligent and powerful characters.
 - Amazing cinematography and soundtrack.
@@ -33,8 +31,6 @@ Thomas Shelby is my favorite character because of his intelligence, confidence, 
 [^1]: Thomas Shelby is portrayed by Cillian Murphy.
 
 
-My Favorite Character {#favorite-character}
-
 Thomas Shelby is a clever and strategic leader who always thinks several steps ahead.
 
 
@@ -50,24 +46,15 @@ Favorite Genre : Crime and Drama
 ~~It is one of the most interesting series I have ever watched!~~
 
 
--[x]Watch Peaky Blinders
--[x]Choose my favorite character
--[x]Write about my favorite series
--[x]Rewatch all episodes
-
-
-This series is amazing! ❤️
-
-The Shelby family is unforgettable! 🔥
-
+- [x]Watch Peaky Blinders
+- [x]Choose my favorite character
+- [x]Write about my favorite series
+- [x]Rewatch all episodes
 
 Thomas Shelby is ==one of the most intelligent characters== in the series.
 
+The Shelby family is unforgettable! 🔥
 
-A chemistry example: H~2~O
-
-
-A mathematical example: X^2^
 
 Conclusion
 
